@@ -1,8 +1,3 @@
----
-title: NLP/IE Resources
-description: University of Minnesota Natural Language Processing / Information Extraction Program
----
-
 The Natural Language Processing/Information Extraction program is a team of investigators at the University of Minnesota, Institute for Health Informatics. We use NLP/IE to process, extract, and encode information from unstructured biomedical and clinical texts, including clinical texts from the electronic health record. These techniques are then leveraged to support the invention of new healthcare and research applications and the investigation of healthcare interventions.
 
 To learn more about our research group, please review our [website](http://bmhi.umn.edu/ihi/research/nlpie).
