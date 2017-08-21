@@ -2,6 +2,8 @@ The Natural Language Processing/Information Extraction program is a team of inve
 
 To learn more about our research group, please review our [website](http://bmhi.umn.edu/ihi/research/nlpie).
 
+We release many of our projects as free and open source software on our [GitHub organization page](https://github.com/nlpie).
+
 # Current Projects
 
 [BioMedICUS](/biomedicus) - The BioMedical Information Collection and Understanding System leverages open source solutions for text analysis and provides new analytic tools for processing and analyzing text of biomedical and clinical reports.
