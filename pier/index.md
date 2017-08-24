@@ -12,3 +12,9 @@ Similarly to other AHC-IE resources, access to PIER and clinical documents for s
 
 ### About Us
 PIER is developed by the University of Minnesota Institute for Health Informatics NLP/IE Group. This work is made possible through a close collaboration between the NLP/IE group, Academic Health Center-Information Services (AHC-IS), and Fairview Health Services Information Technology (FHS-IT) departments.
+
+### Acknowledgements
+Funding for this work was provided by:
+ *	1 R01 LM011364-01 NIH-NLM
+ *	1 R01 GM102282-01A1 NIH-NIGMS
+ *	U54 RR026066-01A2 NIH-NCRR
