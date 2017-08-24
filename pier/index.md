@@ -8,7 +8,7 @@ PIER is an Information Extraction (IE) platform that provides direct access to p
 
 PIER was released as a resource for CTSI researchers via the AHC-IE initiative in July 2015 as v1.0. This initial release includes all Fairview Health Services inpatient and outpatient clinical notes in the Fairview Epic electronic health record, including outpatient documents for Fairview Medical Group from 2004 onward, outpatient documents from University of Minnesota Physicians from 2009 onward, and inpatient documents from Fairview hospitals including University of Minnesota Medical Center from 2011 to present time. This release of PIER includes the ability to filter and search documents using HL7-LOINC Document Ontology document features, keyword searches, UMLS concept searches, Boolean queries, and searches by UMLS semantic type. To maintain concurrency, this repository will be updated on a weekly basis to include new notes and latest revisions to existing notes.
 
-Similarly to other AHC-IE resources, access to PIER and clinical documents for specific research protocols can be requested through a clinical data access request form.
+Similarly to other AHC-IE resources, access to PIER and clinical documents for specific research protocols can be requested through a [clinical data access request form|http://www.ctsi.umn.edu/consultations-and-services/clinical-data-access-and-consulting/clinical-data-access].
 
 ### About Us
 PIER is developed by the University of Minnesota Institute for Health Informatics NLP/IE Group. This work is made possible through a close collaboration between the NLP/IE group, Academic Health Center-Information Services (AHC-IS), and Fairview Health Services Information Technology (FHS-IT) departments.
