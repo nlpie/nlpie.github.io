@@ -8,4 +8,3 @@ PIER was released as a resource for CTSI researchers via the AHC-IE initiative i
 Similarly to other AHC-IE resources, access to PIER and clinical documents for specific research protocols can be requested through a clinical data access request form.
 About Us
 PIER is developed by the University of Minnesota Institute for Health Informatics NLP/IE Group. This work is made possible through a close collaboration between the NLP/IE group, Academic Health Center-Information Services (AHC-IS), and Fairview Health Services Information Technology (FHS-IT) departments.
-{% include "./reuse.md" %}
