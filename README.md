@@ -6,8 +6,8 @@ We release many of our projects as free and open source software on our [GitHub 
 
 # Current Projects
 
-[BioMedICUS](/biomedicus) - The BioMedical Information Collection and Understanding System leverages open source solutions for text analysis and provides new analytic tools for processing and analyzing text of biomedical and clinical reports.
+[BioMedICUS](https://nlpie.github.io/biomedicus) - The BioMedical Information Collection and Understanding System leverages open source solutions for text analysis and provides new analytic tools for processing and analyzing text of biomedical and clinical reports.
 
-[NLP-TAB](http://athena.ahc.umn.edu/nlptab) - Natural Language Processing - Type and Annotation Browser is a web-based system designed to allow researchers and developers of NLP systems to compare the output of several disparate NLP systems to each other or to a manually created reference standard.
+[NLP-TAB](https://nlpie.github.io/nlptab) - Natural Language Processing - Type and Annotation Browser is a web-based system designed to allow researchers and developers of NLP systems to compare the output of several disparate NLP systems to each other or to a manually created reference standard.
 
 [NLP-PIER](http://athena.ahc.umn.edu/pier) - Natural Lanaguage Processing - Patient Information Extraction from Research is an Information Extraction (IE) platform that provides direct access to patient data stored in free text of clinical notes.
