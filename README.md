@@ -10,4 +10,4 @@ We release many of our projects as free and open source software on our [GitHub 
 
 [NLP-TAB](https://nlpie.github.io/nlptab) - Natural Language Processing - Type and Annotation Browser is a web-based system designed to allow researchers and developers of NLP systems to compare the output of several disparate NLP systems to each other or to a manually created reference standard.
 
-[NLP-PIER](http://athena.ahc.umn.edu/pier) - Natural Lanaguage Processing - Patient Information Extraction from Research is an Information Extraction (IE) platform that provides direct access to patient data stored in free text of clinical notes.
+[NLP-PIER](http://nlpie.github.io/pier) - Natural Lanaguage Processing - Patient Information Extraction from Research is an Information Extraction (IE) platform that provides direct access to patient data stored in free text of clinical notes.
