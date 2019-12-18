@@ -1,7 +1,9 @@
-
-# NLP-PIER
-###### Patient Information Extraction for Research
-###### An application for investigators to leverage clinical notes for research
+---
+layout: page
+title: PIER
+description: Patient Information Extraction for Research - An application for investigators to leverage clinical notes for research
+permalink: /pier
+---
 
 ### Overview
 PIER is an Information Extraction (IE) platform that provides direct access to patient data stored in free text of clinical notes. The underlying framework of PIER uses Elasticsearch technology and features the University of Minnesota Clinical NLP/IE program’s open source Natural Language Processing (NLP) application, BioMedICUS (BioMedical Information Collection and Understanding System). This resource aims to serve biomedical and clinical researchers and is a result of the collaborative efforts between the NLP/IE program, Clinical Translational Science Institute (CTSI), Minnesota Supercomputing Institute (MSI), and Academic Health Center Information System Research Development and Support Group.

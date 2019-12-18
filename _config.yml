@@ -1,3 +1,20 @@
-theme: jekyll-theme-cayman
-title: NLP/IE Resources
+title: NLP/IE
 description: University of Minnesota Natural Language Processing / Information Extraction Program
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://nlpie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+right_headers:
+  - name: Downloads
+    href: https://nlpie.umn.edu/downloads
+  - name: MTAP
+    href: https://nlpie.github.io/mtap
+  - name: BioMedICUS
+    href: https://nlpie.github.io/biomedicus
+  - name: GitHub
+    href: https://github.com/nlpie
+
+sass:
+   sass_dir: _sass
+   style: compressed
+highlighter: rouge
