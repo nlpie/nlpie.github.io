@@ -5,8 +5,6 @@ url: "https://nlpie.github.io" # the base hostname & protocol for your site, e.g
 
 
 right_headers:
-  - name: Downloads
-    href: https://nlpie.umn.edu/downloads
   - name: MTAP
     href: https://nlpie.github.io/mtap
   - name: BioMedICUS
