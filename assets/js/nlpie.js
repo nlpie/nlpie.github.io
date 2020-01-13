@@ -1,4 +1,7 @@
 $(document).ready(()=>{
+  $( ".dl-link" ).click(function() {
+    window.location = $(this).data("href");
+  });
   $( ".dl-link" ).each(function() {
     var dlLink = this;
     var downloadServer = $(this).data("download-server");
