@@ -1,5 +1,5 @@
 sections:
-  - name: BioMedICUS Downloads
+  - name: BioMedICUS Data Files
     description: biomedicus.md
     umls_files:
       - biomedicus-data-1.5.0-umls-license-required.zip
