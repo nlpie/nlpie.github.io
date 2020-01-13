@@ -18,3 +18,5 @@ sass:
    sass_dir: _sass
    style: compressed
 highlighter: rouge
+
+download_server: https://nlpie.umn.edu/downloads

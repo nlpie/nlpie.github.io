@@ -1,0 +1,3 @@
+BioMedICUS has two options available for required model files:
+- A more-comprehensive data set available on this page that includes terms from SNOMED CT and other restricted data sets, but requiring individuals to be licensed as users of the UMLS Metathesaurus. You can get a UMLS license at no charge [here](https://www.nlm.nih.gov/databases/umls.html). Use of the SNOMED CT data in these models may require a fee if you are not in a [IHTSDO member country](https://www.snomed.org/members/).
+- A less-comprehensive, baseline dataset that does not include terms from SNOMED CT, also available here under "Open" and on GitHub.

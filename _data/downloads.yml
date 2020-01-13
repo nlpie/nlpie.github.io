@@ -1,0 +1,21 @@
+sections:
+  - name: BioMedICUS Downloads
+    description: biomedicus.md
+    umls_files:
+      - biomedicus-data-1.5.0-umls-license-required.zip
+      - biomedicus-data-1.6.0-umls-license-required.zip
+      - biomedicus-data-1.7.0-umls-license-required.zip
+      - biomedicus-data-1.8.1-umls-license-required.zip
+      - biomedicus-data-2.0.1-umls-license-required.zip
+      - biomedicus-data-2.1.0-umls-license-required.zip
+    open_files:
+      - biomedicus-3.0-beta0-umls-data.zip
+  - name: NLP-ADAPT Downloads
+    description: null
+    umls_files:
+      - amicus.tar
+      - biomedicus.tar
+      - clamp.tar
+      - ctakes.tar
+      - metamap.tar
+      - NLP-ADAPT.ova

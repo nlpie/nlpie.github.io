@@ -1,0 +1,43 @@
+---
+layout: page
+title: Downloads
+---
+{%- assign sections = site.data.downloads.sections -%}
+{%- assign download_server = site.download_server -%}
+{%- for section in sections -%}
+  <h2>{{ section.name }}</h2>
+  {%- if section.description -%}
+    {% capture desc_include %}{% include_relative {{ section.description }} %}{% endcapture %}
+    {{ desc_include | markdownify }}
+  {% endif %}
+  {%- assign umls_files = section.umls_files -%}
+  {% if umls_files %}
+    <h4>UMLS License Required</h4>
+    <table class="table table-striped">
+      {% for file in umls_files %}
+      <tr><td>
+        <a class="dl-link" href="{{download_server}}/verify-umls/{{file}}"
+          data-download-server="{{ download_server }}"
+          data-download-type="umls" data-file-name="{{ file }}">{{file}}
+            <small><span class="dl-time"></span> - <span class="dl-size"></span></small>
+        </a>
+      </td></tr>
+      {% endfor %}
+    </table>
+  {% endif %}
+  {%- assign open_files = section.open_files -%}
+  {% if open_files %}
+    <h4>Open Files</h4>
+    <table class="table table-striped">
+    {% for file in open_files %}
+    <tr><td>
+      <a class="dl-link" href="{{download_server}}/open/{{file}}"
+        data-download-server="{{ download_server }}"
+        data-download-type="open" data-file-name="{{ file }}">{{file}}
+          <small><span class="dl-time"></span> - <span class="dl-size"></span></small>
+      </a>
+    </td></tr>
+    {% endfor %}
+    </table>
+  {% endif %}
+{% endfor %}
