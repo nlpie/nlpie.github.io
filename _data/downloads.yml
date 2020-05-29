@@ -22,4 +22,5 @@ sections:
       - ctakes.tar
       - metamap.tar
       - qumls.tar
+      - qumls_data.zip
       - NLP-ADAPT.ova
