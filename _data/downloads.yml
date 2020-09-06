@@ -2,6 +2,7 @@ sections:
   - name: BioMedICUS Data Files
     description: biomedicus.md
     umls_files:
+      - biomedicus-3.0b6-umls-license-required-data.zip
       - biomedicus-3.0b4-umls-license-required-data.zip
       - biomedicus-3.0-beta0-umls-license-required-data.zip
       - biomedicus-data-2.1.0-umls-license-required.zip
@@ -11,6 +12,7 @@ sections:
       - biomedicus-data-1.6.0-umls-license-required.zip
       - biomedicus-data-1.5.0-umls-license-required.zip
     open_files:
+      - biomedicus-3.0b6-umls-license-required-data.zip
       - biomedicus-3.0b4-standard-data.zip
       - biomedicus-3.0-beta0-umls-data.zip
   - name: NLP-ADAPT Downloads
