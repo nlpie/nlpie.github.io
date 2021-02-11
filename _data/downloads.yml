@@ -2,11 +2,13 @@ sections:
   - name: BioMedICUS Data Files
     description: biomedicus.md
     umls_files:
+      - biomedicus-3.0b8-umls-license-required-data.zip
       - biomedicus-3.0b6-umls-license-required-data.zip
       - biomedicus-3.0b4-umls-license-required-data.zip
       - biomedicus-3.0-beta0-umls-license-required-data.zip
       - biomedicus-data-2.1.0-umls-license-required.zip
     open_files:
+      - biomedicus-3.0b8-standard-data.zip
       - biomedicus-3.0b6-standard-data.zip
       - biomedicus-3.0b4-standard-data.zip
       - biomedicus-3.0-beta0-umls-data.zip
